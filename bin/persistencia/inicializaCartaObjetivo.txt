@@ -1,0 +1,28 @@
+1
+Conquistar na totalidade a EUROPA e a AMÉRICA DO SUL e mais um terceiro continente à sua escolha.
+2
+Conquistar 24 TERRITÓRIOS à sua escolha.
+3
+Destruir totalmente os EXÉRCITOS AMARELOS. Se você quem possui os exércitos AMARELOS ou se o jogador que possui for eliminado por um outro jogador, ou se não existir exército amarelo, seu objetivo passa a ser automaticamente conquistar 24 TERRITÓRIOS.
+4
+Conquistar na totalidade a AMÉRICA DO NORTE e a ÁFRICA.
+5
+Conquistar na totalidade a EUROPA e a OCEANIA e mais um terceiro continente à sua escolha.
+6
+Conquistar na totalidade a AMÉRICA DO NORTE e a OCEANIA.
+7
+Destruir totalmente os EXÉRCITOS VERDES. Se você quem possui os exércitos VERDES ou se o jogador que possui for eliminado por um outro jogador, ou se não existir exército VERDE, seu objetivo passa a ser automaticamente conquistar 24 TERRITÓRIOS.
+8
+Destruir totalmente os EXÉRCITOS AZUIS. Se você quem possui os exércitos AZUIS ou se o jogador que possui for eliminado por um outro jogador, ou se não existir exército AZUL, seu objetivo passa a ser automaticamente conquistar 24 TERRITÓRIOS.
+9
+Conquistar 18 TERRITÓRIOS e ocupar cada um deles com pelo menos dois exércitos.
+10
+Destruir totalmente os EXÉRCITOS VERMELHOS. Se você quem possui os exércitos VERMELHOS ou se o jogador que possui for eliminado por um outro jogador, ou se não existir exército VERMELHO, seu objetivo passa a ser automaticamente conquistar 24 TERRITÓRIOS.
+11
+Destruir totalmente os EXÉRCITOS BRANCOS. Se você quem possui os exércitos BRANCOS ou se o jogador que possui for eliminado por um outro jogador, ou se não existir exército BRANCO, seu objetivo passa a ser automaticamente conquistar 24 TERRITÓRIOS.
+12
+Destruir totalmente os EXÉRCITOS PRETOS. Se você quem possui os exércitos PRETOS ou se o jogador que possui for eliminado por um outro jogador, ou se não existir exército PRETO, seu objetivo passa a ser automaticamente conquistar 24 TERRITÓRIOS.
+13
+Conquistar na totalidade a ÁSIA e a AMÉRICA DO SUL.
+14
+Conquistar na totalidade a ÁSIA e a ÁFRICA.

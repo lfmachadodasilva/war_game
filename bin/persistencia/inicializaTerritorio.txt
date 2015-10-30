@@ -1,0 +1,84 @@
+Brasil
+America do Sul
+Colombia Venezuela
+America do Sul
+Chile
+America do Sul
+Argentina
+America do Sul
+Mexico
+America do Norte
+California
+America do Norte
+Nova York
+America do Norte
+Vancouver
+America do Norte
+Alaska
+America do Norte
+Ottawa
+America do Norte
+Labrador
+America do Norte
+Mackenzie
+America do Norte
+Groenlandia
+America do Norte
+Argelia
+Africa
+Egito
+Africa
+Sudao
+Africa
+Congo
+Africa
+Africa do Sul
+Africa
+Madagascar
+Africa
+Islandia
+Europa
+Inglaterra
+Europa
+Suecia
+Europa
+Moscou
+Europa
+Alemanha
+Europa
+Polonia Iugoslavia
+Europa
+Portugal Espanha
+Europa
+Oriente Medio
+Asia
+India
+Asia
+Vietna
+Asia
+Aral
+Asia
+China
+Asia
+Japao
+Asia
+Omsk
+Asia
+Mongolia
+Asia
+Siberia
+Asia
+Tchita
+Asia
+Dudinka
+Asia
+Vladivostok
+Asia
+Australia
+Oceania
+Sumatra
+Oceania
+Borneo
+Oceania
+Nova Guine
+Oceania

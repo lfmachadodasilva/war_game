@@ -1,0 +1,18 @@
+JOGO WAR
+--------
+
+Diretorios:
+
+/bin - diretorio onde se encontra os executaveis .jar junto com
+o diretório /Figuras onde se encontra as figuras usadas
+no programa e com o diretório /persistencia onde se encontram
+os arquivos texto que serão carregados no programa.
+
+/src - diretorio onde se encontra os códigos fonte.
+
+obs: para o programa carregar as figuras do diretório /Figuras
+e arquivos texto do diretório /persistencia
+precisam estar no mesmo local que os executáveis .jar.
+
+obs2: não sei o porque que em algumas máquinas por causa da 
+diferenca de resolução, fica torta algumas partes da interface.

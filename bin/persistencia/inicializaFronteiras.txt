@@ -1,0 +1,240 @@
+Brasil
+4
+Colombia Venezuela
+Chile
+Argentina
+Argelia
+Argentina
+2
+Brasil
+Chile
+Chile
+3
+Argentina
+Brasil
+Colombia Venezuela
+Colombia Venezuela
+2
+Brasil
+Chile
+Mexico
+2
+Nova York
+California
+Nova York
+4
+Mexico
+California
+Ottawa
+Labrador
+California
+4
+Mexico
+Nova York
+Vancouver
+Ottawa
+Vancouver
+4
+California
+Ottawa
+Mackenzie
+Alaska
+Ottawa
+5
+California
+Nova York
+Labrador
+Vancouver
+Mackenzie
+Labrador
+3
+Ottawa
+Nova York
+Groenlandia
+Mackenzie
+4
+Alaska
+Vancouver
+Ottawa
+Groenlandia
+Alaska
+3
+Mackenzie
+Vancouver
+Vladivostok
+Groenlandia
+3
+Mackenzie
+Labrador
+Islandia
+Islandia
+2
+Inglaterra
+Groenlandia
+Inglaterra
+4
+Islandia
+Suecia
+Portugal Espanha
+Alemanha
+Suecia
+2
+Inglaterra
+Moscou
+Alemanha
+3
+Inglaterra
+Portugal Espanha
+Polonia Iugoslavia
+Portugal Espanha
+5
+Inglaterra
+Alemanha
+Polonia Iugoslavia
+Argelia
+Egito
+Polonia Iugoslavia
+5
+Portugal Espanha
+Alemanha
+Moscou
+Egito
+Oriente Medio
+Moscou
+5
+Suecia
+Polonia Iugoslavia
+Oriente Medio
+Aral
+Omsk
+Argelia
+5
+Brasil
+Portugal Espanha
+Egito
+Sudao
+Congo
+Congo
+3
+Argelia
+Sudao
+Africa do Sul
+Sudao
+5
+Egito
+Argelia
+Congo
+Africa do Sul
+Madagascar
+Africa do Sul
+3
+Congo
+Sudao
+Madagascar
+Madagascar
+2
+Africa do Sul
+Sudao
+Egito
+5
+Argelia
+Sudao
+Oriente Medio
+Portugal Espanha
+Polonia Iugoslavia
+Oriente Medio
+5
+Aral
+India
+Egito
+Moscou
+Polonia Iugoslavia
+India
+5
+Oriente Medio
+Aral
+China
+Vietna
+Sumatra
+Vietna
+3
+India
+China
+Borneo
+Aral
+5
+Moscou
+Oriente Medio
+India
+China
+Omsk
+China
+8
+Japao
+Vietna
+India
+Aral
+Omsk
+Mongolia
+Tchita
+Vladivostok
+Japao
+2
+China
+Vladivostok
+Omsk
+5
+Moscou
+Aral
+China
+Mongolia
+Dudinka
+Dudinka
+4
+Omsk
+Siberia
+Tchita
+Mongolia
+Siberia
+3
+Dudinka
+Tchita
+Vladivostok
+Vladivostok
+5
+Siberia
+Tchita
+China
+Japao
+Alaska
+Tchita
+5
+Mongolia
+China
+Vladivostok
+Siberia
+Dudinka
+Mongolia
+4
+China
+Omsk
+Dudinka
+Tchita
+Australia
+3
+Sumatra
+Borneo
+Nova Guine
+Sumatra
+2
+India
+Australia
+Borneo
+3
+Australia
+Nova Guine
+Vietna
+Nova Guine
+2
+Australia
+Borneo
